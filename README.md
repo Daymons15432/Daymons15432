@@ -3,10 +3,10 @@
 
 ## 🌐 Socials:
 <a href="https://tiktok.com/@hakiouderion" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" style="width: 100px;">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" style="width: 50px;">
 </a>
 <a href="https://youtube.com/@@HakiouDerion" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" style="width: 100px;">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" style="width: 50px;">
 </a>
 
 # 💻 Tech Stack:
@@ -30,5 +30,5 @@
 
 ## 💰 You can help me by Donating
 <a href="https://trakteer.id/hakiouderion" target="_blank">
-  <img src="https://trakteer-bedesk.s3.ap-southeast-1.amazonaws.com/storage/branding_media/lmWrnYB222t4UieTIowhHr44C1oDJkoSmtEVonF7.png" alt="Trakteer" style="width: 150px;">
+  <img src="https://trakteer-bedesk.s3.ap-southeast-1.amazonaws.com/storage/branding_media/lmWrnYB222t4UieTIowhHr44C1oDJkoSmtEVonF7.png" alt="Trakteer" style="width: 50px;">
 </a>
