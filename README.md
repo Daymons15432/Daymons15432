@@ -3,10 +3,10 @@
 
 ## 🌐 Socials:
 <a href="https://tiktok.com/@hakiouderion" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" style="width: 50px;">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" style="width: 80px;">
 </a>
 <a href="https://youtube.com/@@HakiouDerion" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" style="width: 50px;">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" style="width: 80px;">
 </a>
 
 # 💻 Tech Stack:
