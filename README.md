@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python, Java, Javascript, Node.JS, and Vue.JS
+🌱 I’m currently learning Dart, Flutter, Python, Java, Javascript, Node.JS, and Vue.JS
 
 ## 🌐 Socials:
 <a href="https://tiktok.com/@hakiouderion" target="_blank">
