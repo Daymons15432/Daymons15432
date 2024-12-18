@@ -16,6 +16,6 @@
 [![](https://visitcount.itsvg.in/api?id=Daymons15432&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Trakteer]([https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black](https://trakteer-bedesk.s3.ap-southeast-1.amazonaws.com/storage/branding_media/lmWrnYB222t4UieTIowhHr44C1oDJkoSmtEVonF7.png))]([https://](https://trakteer.id/hakiouderion)) 
+  [![Trakteer](https://cdn.discordapp.com/attachments/1229321225608757294/1318792778532126790/trakteer-thumbnail.png?ex=67639cfc&is=67624b7c&hm=dd77e9e75a156d0ff8c6add6a35cc031fbeb899f8817efd2a884dff2aaa8ae36&)([https://](https://trakteer.id/hakiouderion)) 
 
   
