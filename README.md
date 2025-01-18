@@ -22,5 +22,8 @@
 [![](https://visitcount.itsvg.in/api?id=Daymons15432&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Socialbuzz](https://cdn.discordapp.com/attachments/1229321225608757294/1330183460815372319/68747470733a2f2f73746f726167652e736f63696162757a7a2e636f6d2f73746f726167652f6c616e64696e67706167652f696d672f736f63696162757a7a2d6c6f676f2e706e67.png?ex=678d0d62&is=678bbbe2&hm=ea2a40f11c81d17ee7816f0e6f38b172bb2b1d5525418f20415b9505765982c9&)](https://sociabuzz.com/hakiouderion/donate) 
+  <a href="https://sociabuzz.com/hakiouderion/donate">
+    <img src="https://cdn.discordapp.com/attachments/1229321225608757294/1330183460815372319/68747470733a2f2f73746f726167652e736f63696162757a7a2e636f6d2f73746f726167652f6c616e64696e67706167652f696d672f736f63696162757a7a2d6c6f676f2e706e67.png?ex=678d0d62&is=678bbbe2&hm=ea2a40f11c81d17ee7816f0e6f38b172bb2b1d5525418f20415b9505765982c9&" alt="Socialbuzz" width="500">
+</a>
+
 
