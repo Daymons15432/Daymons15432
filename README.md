@@ -23,10 +23,10 @@
 
   ## 💰 You can help me by Donating
   <a href="https://sociabuzz.com/hakiouderion/donate">
-    <img src="https://cdn.discordapp.com/attachments/1229321225608757294/1330183460815372319/68747470733a2f2f73746f726167652e736f63696162757a7a2e636f6d2f73746f726167652f6c616e64696e67706167652f696d672f736f63696162757a7a2d6c6f676f2e706e67.png?ex=678d0d62&is=678bbbe2&hm=ea2a40f11c81d17ee7816f0e6f38b172bb2b1d5525418f20415b9505765982c9&" alt="Socialbuzz" width="150">
+    <img src="https://cdn.discordapp.com/attachments/1229321225608757294/1330183460815372319/68747470733a2f2f73746f726167652e736f63696162757a7a2e636f6d2f73746f726167652f6c616e64696e67706167652f696d672f736f63696162757a7a2d6c6f676f2e706e67.png?ex=678d0d62&is=678bbbe2&hm=ea2a40f11c81d17ee7816f0e6f38b172bb2b1d5525418f20415b9505765982c9&" alt="Socialbuzz" width="150" style="margin: 20px;">
 </a>
     <a href="https://trakteer.id/hakiouderion">
-    <img src="https://cdn.discordapp.com/attachments/1229321225608757294/1330185509963825233/navbar-logo-lite.png?ex=678d0f4b&is=678bbdcb&hm=1815eee3b9b3e282118a83f08466815fbd2bb35b2b2cb3b68ab6be6ff9ad3a6d&" alt="trakteer" width="150" style="margin: 20px;">
+    <img src="https://cdn.discordapp.com/attachments/1229321225608757294/1330185509963825233/navbar-logo-lite.png?ex=678d0f4b&is=678bbdcb&hm=1815eee3b9b3e282118a83f08466815fbd2bb35b2b2cb3b68ab6be6ff9ad3a6d&" alt="trakteer" width="150">
 </a>
 
 
